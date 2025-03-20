@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ffplay": "^1.1.0"
+  }
+}
